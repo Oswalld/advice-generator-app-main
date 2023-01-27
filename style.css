@@ -102,7 +102,6 @@ button{
     z-index: -5;
     opacity: 0;
     background-color: #313A48;
-    transform: scale(1.5);
   }
   #foglayer_01, #foglayer_02, #foglayer_03 {
     height: 100%;
